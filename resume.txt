@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <title> QUES.1 </title>
+    </head>
+</html>
+
+<head>
+    <body>
+        <h1 align="center"> <u> RESUME</u> </h1>
+        <div style="text-align: left;">
+            <pre>
+                <b>Abc Pqr</b>
+                Unit 55, SDF II,
+                SEEPZ, Andher(e)
+                Mumbai:-400096
+                mobile No:- 99898989898
+                <b>Email:</b> abc@patni.com
+                <hr color="black"   width="100%">
+            </pre>
+        </div>  
+        <caption><h3>Educational Qualifications:</h3></caption> 
+        <thead>
+            <table cellspacing="10px" cellpadding="10px">
+                <tr>   
+                    <th> Qualifications </th>
+                    <th> Institute </th> 
+                    <th> University/Board </th> 
+                    <th> Markes(%) </th>
+                    <th> Year of passing </th>
+                </tr> 
+                <tr>
+                    <td> BE(CS) </td>
+                    <td> VJIT  </td>
+                    <td> Mumbai university </td>
+                    <td> 89% </td>
+                    <td> 2003 </td>
+                </tr>
+                <tr>
+                    <td> HSC </td>
+                    <td> Cambridge </td>
+                    <td> ICSE </td>
+                    <td> 97% </td>
+                    <td> 1999 </td>
+                </tr>
+                <tr>
+                    <td> SSC </td>
+                    <td> Cambridge </td>
+                    <td> ICSE </td>
+                    <td> 98% </td>
+                    <td> 1997 </td>
+                </tr>   
+             </table>
+             <table>
+             <caption> <h3 align="left"> Skill Set :</h3></caption>
+            <tr>
+                <td> <b> Operating System : </b > </td>   <td> Window 9'x,Dos </td>
+            </tr>
+            <tr>
+                <td> <b> Language : </b> </td> <td> C/C++ </td>
+            </tr>
+            <tr>
+                <td> <b> Front End : </b> </td> <td>VB 6.0 </td>
+            </tr>
+            <tr>
+                <td> <b> DBMS : </b> </td> <td> Oracal 9i </td>
+            </tr>
+        </table> 
+        </thead>  
+    </body>
+</head>
